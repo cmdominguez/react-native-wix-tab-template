@@ -1,6 +1,9 @@
 {
   "name": "react-native-wix-tab-template",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "React Native Tab Template",
-  "author": "Mariano Dominguez <mariano1491@gmail.com>"
+  "author": "Mariano Dominguez <mariano1491@gmail.com>",
+  "repository": {
+    "url": "https://github.com/cmdominguez/react-native-wix-tab-template"
+  }
 }
