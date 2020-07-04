@@ -16,7 +16,7 @@ import {Tab2} from '../Screens/Tab2';
  * que termina de registrar las pantallas
  */
 export default (callback: () => {}) => {
-  Navigation.registerComponent(SCREEN_NAMES.TAB1, () => Tab1);
-  Navigation.registerComponent(SCREEN_NAMES.TAB2, () => Tab2);
-  callback();
+    Navigation.registerComponent(SCREEN_NAMES.TAB1, () => Tab1);
+    Navigation.registerComponent(SCREEN_NAMES.TAB2, () => Tab2);
+    callback();
 };
